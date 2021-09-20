@@ -264,6 +264,8 @@ Grocery List
   letter-spacing: 2px;
   transition: var(--transition);
 }
+/*//lord*/
+
 .edit-btn,
 .delete-btn {
   background: transparent;

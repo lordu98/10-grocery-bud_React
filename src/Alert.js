@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-
+//lord
 const Alert = ({type, msg, removeAlert, list}) => {
 
     useEffect(() => {

@@ -1,6 +1,7 @@
 import React from 'react'
 import {FaEdit, FaTrash} from "react-icons/all";
 
+//lord
 
 const List = ({items, removeItem, editItem}) => {
 
